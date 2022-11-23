@@ -1,4 +1,4 @@
-# flutter_application_2
+# SNGIST GROUP OF INSTITUTIONS GRIEVANCE USER WEB PORTAL.
 
 A new Flutter project.
 
